@@ -4,7 +4,7 @@
 # Application to European Perch Data from Curonian Lagoon, Lithuania 
 # 
 # by Athol Whitten (awhitten@gmail.com)
-# Melbourne, Australia, 2011
+# Melbourne, Australia, 2012
 #
 ################################################################################################
 
