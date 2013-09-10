@@ -1,18 +1,18 @@
 #####################################################################################################################
 #
 # 	Corselect.r 
-#	R Functions for the simultaneous estimation of selectivity parameters for Gillnets & Cormorants.
+#	  R Functions for the simultaneous estimation of selectivity parameters for Gillnets & Cormorants.
 #	
 # 	In using these methods an assumed selectivity function (a gamma function) is fitted directly to catch 
-#	data for a number of gill-nets with specific mesh-sizes, with the parameters of the selectivity function 
-#	being estimated simultaneously across mesh-sizes and length-classes. An additional selectivity function 
-#	(a log-normal function) is simultaneously fit to 'catch' data for Great Cormorants.
+#	  data for a number of gill-nets with specific mesh-sizes, with the parameters of the selectivity function 
+#	  being estimated simultaneously across mesh-sizes and length-classes. An additional selectivity function 
+#	  (a log-normal function) is simultaneously fit to 'catch' data for Great Cormorants.
 #
-# 	Code by Athol Whitten (awhitten@gmail.com)
+# 	Code by Athol Whitten (awhitten@gmail.com), 
 # 	Melbourne, Australia, 2012
 #
-# 	This code is free to use (see LICENSE.txt), but please give credit to the authors of the study for which the code was written: 
-# 	See Troynikov et al, 2013: Cormorant catch concerns for fishers: Estimating the 
+# 	This code is free to use (see LICENSE.txt), but please give credit to the authors of the study for which 
+#   the code was written: See Troynikov et al, 2013: Cormorant catch concerns for fishers: Estimating the 
 # 	size-selectivity of a piscivorous bird, PLOS ONE (In Press)
 #
 #######################################################################################################################
