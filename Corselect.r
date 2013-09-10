@@ -9,9 +9,12 @@
 #	(a log-normal function) is simultaneously fit to 'catch' data for Great Cormorants.
 #
 # 	Code by Athol Whitten (awhitten@gmail.com)
-# 	Melbourne, Australia, 2011
+# 	Melbourne, Australia, 2012
 #
-# 	This code is free to use, but please give credit to the authors of t
+# 	This code is free to use, but please give credit to the authors of the study for which the code was written: 
+# 	See Troynikov et al, 2013: Cormorant catch concerns for fishers: Estimating the 
+# 	size-selectivity of a piscivorous bird, PLOS ONE (In Press)
+#
 #######################################################################################################################
 
 #Define Selectivity Function (S1): Relative selectivities of gill-nets using a functional form of the standard Gamma function (with modal value rescaled to one);
