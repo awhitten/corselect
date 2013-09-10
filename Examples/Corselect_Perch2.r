@@ -5,7 +5,7 @@
 # NOTE: This application excludes the beach seine data from the Perch Data set (using Perch2.dat).
 #
 # by Athol Whitten (awhitten@gmail.com)
-# Melbourne, Australia, 2011
+# Melbourne, Australia, 2012
 #
 ################################################################################################
 
